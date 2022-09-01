@@ -11,7 +11,13 @@ Jeg Har Redigert ;)
 Når du har gjort det. Skal du også redigere denne filen
 =======
 Når du har gjort det. Skal du også redigere dennne filen
+<<<<<<< HEAD
+jjk kiujjn uub98uuv777uuuu7y5544
+=======
 
+<<<<<<< HEAD
+Jeg redigerte
+=======
 Redigert denne filen. :)
 >>>>>>> c2f755195a3f4337101b7d21cc8a09bfbb5afcf1
 >>>>>>> 3eb2941421a9439257933172155abd1e5ccf453f
