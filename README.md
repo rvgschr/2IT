@@ -6,6 +6,9 @@ Her skal du laste opp en mappe med ditt navn. Mappen skal bestå av en index.htm
 Når du har gjort det. Skal du også redigere denne filen
 =======
 Når du har gjort det. Skal du også redigere dennne filen
+<<<<<<< HEAD
+jjk kiujjn uub98uuv777uuuu7y5544
+=======
 
 <<<<<<< HEAD
 Jeg redigerte
